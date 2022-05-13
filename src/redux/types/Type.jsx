@@ -1,0 +1,1 @@
+export const GET_DRESSED = 'GET_DRESSED';

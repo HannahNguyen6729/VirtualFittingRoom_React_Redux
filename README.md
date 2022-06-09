@@ -3,4 +3,5 @@ This simple website is a digital dressing room where you can easily find your un
 
 URL https://virtual-fitting-room-react.surge.sh/
 
-![image](https://user-images.githubusercontent.com/81440768/172797134-aa49a9c8-9511-49d9-aca0-863bf6ae4bbf.png)
+
+![3](https://user-images.githubusercontent.com/81440768/172798190-5389c994-9bac-4f81-aba1-54d70af72584.png)
